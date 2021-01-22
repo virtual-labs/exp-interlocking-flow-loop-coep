@@ -1,8 +1,8 @@
 ### Instructions to run the simulator
 1) Learn the type of Selector and Limiter.
-	i) Select the type of selector or limiter.
-	ii) Select No. of Inputs for selector OR Select Limit Value i.e. X for limiter.
-	iii) Select output according to selected type and click "check operation" button.
+* Select the type of selector or limiter.
+* Select No. of Inputs for selector OR Select Limit Value i.e. X for limiter.
+* Select output according to selected type and click "check operation" button.
 2) Identify Symbol from the given symbol library.
 3) Take readings for inputs i.e. for a, b, c, and d by changing slider values and observe the output. After that click "next" button. Follow similar steps to learn all the types of selector and limiter. Once you done with this, go to the configuration step.
 4) select Application to configure selector or limiter into that application.
