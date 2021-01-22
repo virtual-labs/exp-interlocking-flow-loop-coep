@@ -103,7 +103,7 @@
     {
      question: "What are the types of safety aspect in any plant",  ///// Write the question inside double quotes
       answers: {
-        a: "INterlock",                  ///// Write the option 1 inside double quotes
+        a: "Interlock",                  ///// Write the option 1 inside double quotes
         b: "All of these",                  ///// Write the option 2 inside double quotes
         c: "Regulatory control",                  ///// Write the option 3 inside double quotes
         d: "Safety instrumented system"                   ///// Write the option 4 inside double quotes
